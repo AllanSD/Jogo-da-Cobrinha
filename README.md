@@ -4,4 +4,4 @@ Criado por Allan S D Avila RA 1130042 email: allandavila1109@gmail.com e Dennis 
 time problemas com o git e colocarei os commits manualmente.
 
 
-Executavel: 
+Executavel:  https://www.mediafire.com/folder/qz2yd7zm1xrp6/Executavel
